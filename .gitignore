@@ -1,0 +1,31 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.class
+
+# Build directories
+build/
+bin/
+debug/
+release/
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
